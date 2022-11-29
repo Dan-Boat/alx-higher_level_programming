@@ -1,3 +1,3 @@
 ## Higher Level Programming (Python)
-This repository hoost all the python programming projects from the ALX-SE program.
+This repository host all the python programming projects from the ALX-SE program.
 
